@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-matplotlib
-shap
-xgboost
-azure-cosmos
-python-dotenv
-scikit-learn
