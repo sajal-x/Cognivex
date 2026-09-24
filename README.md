@@ -84,10 +84,15 @@ Trained and benchmarked multiple state-of-the-art machine learning algorithms fo
 ---
 ## 👥 Contributors
 * Sajal Kumar
+  
 *  Himadri Ghosh
+  
 * Anay Mishra
+  
 * Ajiti Kumari Shaw
+ 
 * Saurav Kumar
+  
 * Siddharth Thakur
 
 
